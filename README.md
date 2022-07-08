@@ -1,3 +1,3 @@
 # Guide-Linux-Commands
 
-This guide is the collection of my personal notes when taking the online course <The Linux Command Line Bootcamp> by Colt Steele. I organized the concepts and commands demonstrated during the lectures into a consistent and structured way, with the goal of helping beginners to fast master the basic skills of Linux Command Lines. Sincere thanks to Colt Steele, for this is a very excellent course!
+This guide is the collection of my personal notes when taking the online course < The Linux Command Line Bootcamp > by Colt Steele. I organized the concepts and commands demonstrated during the lectures into a consistent and structured way, with the goal of helping beginners to fast master the basic skills of Linux Command Lines. Sincere thanks to Colt Steele, for this is a very excellent course!
